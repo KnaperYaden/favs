@@ -1,5 +1,5 @@
-# synle/fav
+# knaper/fav
 
-Sy's personal favorites
+Knaper's personal favorites
 
-https://synle.github.io/fav/
+https://knaper.github.io/fav/
